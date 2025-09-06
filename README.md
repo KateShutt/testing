@@ -6,3 +6,7 @@ See the README file in [this](https://github.com/KateShutt/git_commands.git)fold
 
 
 ![Step 1](assignment_1_screenshots/1_creating_a_repo_and_inputting_text_in_README.png)
+
+### adding gitignore
+
+![adding gitignore](assignment_1_screenshots/adding_git_ignore.png)
